@@ -1,0 +1,15 @@
+target
+logs
+.settings
+.classpath
+.project
+.factorypath
+bin
+.settings.json
+.vscode
+.idea
+app.log
+*.iml
+upload
+docs/~$*
+.flattened-pom.xml
