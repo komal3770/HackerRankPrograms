@@ -13,3 +13,4 @@ app.log
 upload
 docs/~$*
 .flattened-pom.xml
+*.class
